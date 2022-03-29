@@ -8,7 +8,7 @@ public class git {
 	   System.out.println();
 
 }
-	public void sony1() {
+	public void sony2() {
 	
 	   System.out.println();
 
