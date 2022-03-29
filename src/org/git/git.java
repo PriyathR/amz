@@ -1,0 +1,15 @@
+package org.git;
+
+public class git {
+	
+	
+	public void sony() {
+	
+	   System.out.println();
+
+}
+public static void main(String[] args) {
+	git g = new git();
+	g.sony();
+}
+}
