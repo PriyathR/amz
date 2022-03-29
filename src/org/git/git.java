@@ -20,6 +20,13 @@ public class git {
 
 }
 
+	public void sony4() {
+	
+	   System.out.println();
+
+}
+
+
 public static void main(String[] args) {
 	git g = new git();
 	g.sony();
