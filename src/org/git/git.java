@@ -3,7 +3,7 @@ package org.git;
 public class git {
 	
 	
-	public void sony() {
+	public void sonyamz() {
 	
 	   System.out.println();
 
